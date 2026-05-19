@@ -1,0 +1,27 @@
+namespace HotelBooking.Application.Auth;
+
+public sealed record GuestProfileDto(
+    Guid UserId,
+    string FirstName,
+    string LastName,
+    string TcKimlikNo,
+    DateOnly BirthDate,
+    string Gender,
+    string Phone,
+    string Country,
+    string City,
+    string Address,
+    string DocumentType,
+    string? PassportNumber,
+    string Nationality,
+    string PreferredLanguage,
+    string InvoiceInfo,
+    string PaymentPreference,
+    string? SpecialRequests,
+    bool AccessibilityNeeds,
+    bool NonSmokingRoomPreference,
+    string BedTypePreference,
+    bool BreakfastPreference,
+    string? PetInfo,
+    string EmergencyContactName,
+    string EmergencyContactPhone);

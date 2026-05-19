@@ -1,0 +1,229 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/HotelBooking.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Application/HotelBooking.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Application/HotelBooking.Application.csproj",
+        "projectName": "HotelBooking.Application",
+        "projectPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Application/HotelBooking.Application.csproj",
+        "packagesPath": "/Users/ensarcansiz/.nuget/packages/",
+        "outputPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ensarcansiz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/HotelBooking.Domain.csproj": {
+                "projectPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/HotelBooking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/HotelBooking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/HotelBooking.Domain.csproj",
+        "projectName": "HotelBooking.Domain",
+        "projectPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/HotelBooking.Domain.csproj",
+        "packagesPath": "/Users/ensarcansiz/.nuget/packages/",
+        "outputPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ensarcansiz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/HotelBooking.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/HotelBooking.Infrastructure.csproj",
+        "projectName": "HotelBooking.Infrastructure",
+        "projectPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/HotelBooking.Infrastructure.csproj",
+        "packagesPath": "/Users/ensarcansiz/.nuget/packages/",
+        "outputPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ensarcansiz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Application/HotelBooking.Application.csproj": {
+                "projectPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Application/HotelBooking.Application.csproj"
+              },
+              "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/HotelBooking.Domain.csproj": {
+                "projectPath": "/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/HotelBooking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

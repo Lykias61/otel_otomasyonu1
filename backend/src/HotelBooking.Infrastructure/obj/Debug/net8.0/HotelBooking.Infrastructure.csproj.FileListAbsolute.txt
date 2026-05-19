@@ -1,0 +1,17 @@
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/bin/Debug/net8.0/HotelBooking.Infrastructure.deps.json
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/bin/Debug/net8.0/HotelBooking.Infrastructure.dll
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/bin/Debug/net8.0/HotelBooking.Infrastructure.pdb
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/bin/Debug/net8.0/HotelBooking.Application.dll
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/bin/Debug/net8.0/HotelBooking.Domain.dll
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/bin/Debug/net8.0/HotelBooking.Application.pdb
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/bin/Debug/net8.0/HotelBooking.Domain.pdb
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/HotelBooking.Infrastructure.csproj.AssemblyReference.cache
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/HotelBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/HotelBooking.Infrastructure.AssemblyInfoInputs.cache
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/HotelBooking.Infrastructure.AssemblyInfo.cs
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/HotelBooking.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/HotelBoo.8CD6D998.Up2Date
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/HotelBooking.Infrastructure.dll
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/refint/HotelBooking.Infrastructure.dll
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/HotelBooking.Infrastructure.pdb
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Infrastructure/obj/Debug/net8.0/ref/HotelBooking.Infrastructure.dll

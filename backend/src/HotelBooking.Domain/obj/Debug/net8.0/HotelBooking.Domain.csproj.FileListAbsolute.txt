@@ -1,0 +1,11 @@
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/bin/Debug/net8.0/HotelBooking.Domain.deps.json
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/bin/Debug/net8.0/HotelBooking.Domain.dll
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/bin/Debug/net8.0/HotelBooking.Domain.pdb
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/Debug/net8.0/HotelBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/Debug/net8.0/HotelBooking.Domain.AssemblyInfoInputs.cache
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/Debug/net8.0/HotelBooking.Domain.AssemblyInfo.cs
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/Debug/net8.0/HotelBooking.Domain.csproj.CoreCompileInputs.cache
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/Debug/net8.0/HotelBooking.Domain.dll
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/Debug/net8.0/refint/HotelBooking.Domain.dll
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/Debug/net8.0/HotelBooking.Domain.pdb
+/Users/ensarcansiz/otel otomasyonu/backend/src/HotelBooking.Domain/obj/Debug/net8.0/ref/HotelBooking.Domain.dll
